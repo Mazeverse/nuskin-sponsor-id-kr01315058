@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nuskin-sponsor-id-kr01315058.vercel.app/sitemap.xml
